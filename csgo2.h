@@ -1,4 +1,4 @@
-/* C:\Users\CX\Desktop\โปรเจค git\CounterStrike2\x64\Release\CounterStrike2-External2.exe (12/7/2025 8:30:50 PM)
+/* C:\Users\CX\Desktop\การบ้าน\โปรเจค git\CounterStrike2\x64\Release\CounterStrike2-External2.exe (12/7/2025 8:30:50 PM)
    StartOffset(h): 00000000, EndOffset(h): 002AD1FF, Length(h): 002AD200 */
 
 unsigned char rawData[2806272] = {
